@@ -11,7 +11,7 @@
 		<slot />
 		<!-- +page 보여주는 부분 -->
 	</main>
-	<Footer/>
+	<Footer value={234234223}/>
 </div>
 
 <style>

@@ -1,4 +1,8 @@
-<footer>Copyright@2023, keng</footer>
+<script>
+    export let value;
+</script>
+
+<footer>Copyright@2023, keng value:{value}</footer>
 
 <style>
     footer{

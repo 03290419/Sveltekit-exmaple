@@ -4,7 +4,6 @@
 
 <article>  
     <h1>{data.title}</h1>
-    {data.params}
     <p>Published: {data.date}</p>
     <svelte:component this={data.content} />
 </article>
